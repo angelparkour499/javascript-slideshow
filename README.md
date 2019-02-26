@@ -6,7 +6,7 @@ This is a slideshow responsive slideshow which works on divs so it's interactive
 ## Slideshow samples
 
 
-![sample #2](https://github.com/angelparkour499/javascript-slideshow/blob/master/Slideshow_sample.png)
+![sample #1](https://github.com/angelparkour499/javascript-slideshow/blob/master/Slideshow_sample.png)
 ![sample #2](https://github.com/angelparkour499/javascript-slideshow/blob/master/Slideshow_sample%232.png)
 
 
