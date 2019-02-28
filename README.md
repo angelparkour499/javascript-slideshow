@@ -1,4 +1,4 @@
-# Slide show built up using Javascript
+# Slide show built using Javascript
 
 This is a slideshow responsive slideshow which works on divs so it's interactive for linking the block or just making the inside responsive [codepen sample](https://codepen.io/queflojera/details/gqBmoQ)
 
