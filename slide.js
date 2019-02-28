@@ -6,14 +6,14 @@ var slideIndex = 1;
 
 slider(slideIndex);
 
-function addSlide(n) {
-  slider(slideIndex += n)
+function addSlide(index) {
+  slider(slideIndex += index)
 }
 
-function slider(n) {
+function slider(index) {
   
-  if (n > slides.length) {slideIndex = 1}
- if (n < 1) {slideIndex = slides.length}
+  if (index > slides.length) {slideIndex = 1}
+ if (index < 1) {slideIndex = slides.length}
   for (i = 0; i <slides.length; i++) {
     slides[i].style.display = 'none'
   }
